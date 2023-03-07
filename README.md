@@ -1,2 +1,3 @@
 # Numpy-Neutral-Network
-A Neural Network made using Numpy
+
+![Code SS](https://i.imgur.com/m1aE212.png)
